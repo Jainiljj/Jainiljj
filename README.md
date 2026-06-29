@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:jainilsinghvi18@gmail.com">📧 Email</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/jainil-singhvi">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/jainil-singhvi-133380307/">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://jainilj.github.io/Portfolio-Website">🌐 Portfolio</a>
 </p>
 
@@ -63,14 +63,6 @@ I work at the intersection of **AI/ML**, **full-stack development**, and **data*
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jainilj&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainilj&layout=compact&theme=tokyonight&hide_border=true" width="38%"/>
-</p>
-
----
 
 ## 🎯 Currently
 
