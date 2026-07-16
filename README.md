@@ -66,7 +66,7 @@ I work at the intersection of **AI/ML**, **full-stack development**, and **data*
 
 ## 🎯 Currently
 
-- 📚 Final year CS @ Techno NJR Institute of Technology (CGPA: 8.1)
+- 📚 Student of CS dicipline @ Techno NJR Institute of Technology (CGPA: 8.1)
 - 🔍 Open to **SDE / AI-ML / Analyst roles** — full-time or internships
 - 🗣️ Active Toastmasters member — I can actually present what I build
 
