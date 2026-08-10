@@ -24,7 +24,7 @@ I work at the intersection of **AI/ML**, **full-stack development**, and **data*
 | Project | What it does | Stack |
 |---|---|---|
 | [**Financial Research AI Agent**](https://colab.research.google.com/drive/1AGPDOley0ociYyZ6Z7BhjxPzkqiuIhFY) | An SLM (Small Language Model) made to train over financial terms and logics to make a Core-finance AI model that works on less but dedicated parameters and reaching accuracy. | Python, unsloth, Transformers |
-| [**OCR for Internship**](https://colab.research.google.com/drive/1tgC7NkskR5T2lHuiEdUbTPA1RIQpC9zJ#scrollTo=17c13a58) | Extracts structured data from scanned invoices & identity documents automatically | Python, DeepSeek OCR, OpenCV |
+| [**OCR for Internship**](https://colab.research.google.com/drive/1tgC7NkskR5T2lHuiEdUbTPA1RIQpC9zJ#scrollTo=17c13a58) | Extracts structured data from scanned invoices & identity documents automatically | Python, Tesseract-OCR, OpenCV |
 | [**Exoplanet Classifier**](https://exoplanet-classifier-beta.vercel.app/) | ML model trained on NASA datasets to classify exoplanets, with a live web visualizer | Python, TensorFlow |
 | [**MedSim AI**](https://medsimai.vercel.app/) | Generative AI tool that mimics patients and interact real-time | JavaScript, Generative AI, Python |
 
